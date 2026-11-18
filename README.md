@@ -10,7 +10,7 @@ Personal portfolio website created as part of the **Git and GitHub Practical Tes
 
 | Section | Subject |
 | :--- | :--- |
-| [B] | Git and GitHub |
+| [A] | Git and GitHub |
 
 ---
 
