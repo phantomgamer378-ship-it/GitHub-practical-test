@@ -6,7 +6,7 @@ Personal portfolio website created as part of the **Git and GitHub Practical Tes
 
 | Full Name | URN Number | Semester |
 | :--- | :--- | :--- |
-| Vishal Chauhan | [URN Number] | [Semester] |
+| Vishal Chauhan | [URN E25B032622] | [Semester 3rd] |
 
 | Section | Subject |
 | :--- | :--- |
