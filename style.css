@@ -169,3 +169,17 @@ body {
     color: #2f855a;
     font-weight: 500;
 }
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #718096;
+    border-top: 1px solid #e2e8f0;
+}
+
+.footer p {
+    margin-bottom: 5px;
+}
